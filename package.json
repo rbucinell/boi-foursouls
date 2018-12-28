@@ -1,0 +1,28 @@
+{
+  "name": "boi-foursouls",
+  "version": "1.0.0",
+  "description": "Binding of Isaac - Four Souls card game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbucinell/boi-foursouls.git"
+  },
+  "keywords": [
+    "boi",
+    "binding",
+    "isaac",
+    "four",
+    "souls",
+    "card",
+    "game"
+  ],
+  "author": "Ryan Bucinell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbucinell/boi-foursouls/issues"
+  },
+  "homepage": "https://github.com/rbucinell/boi-foursouls#readme"
+}
